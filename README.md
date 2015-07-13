@@ -13,4 +13,5 @@ Installation/Setup:
 
 Usage:
 - The script will pull any IOC stored in MISP with the "IDS" setting checked.
+- The script needs to be run as root in order to sync with BRO sensors.
 - For autonomous operation, use cron: http://askubuntu.com/questions/2368/how-do-i-set-up-a-cron-job
