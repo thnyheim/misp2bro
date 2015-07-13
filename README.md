@@ -1,5 +1,5 @@
 # misp2bro
-Python script that periodically gets IOC from MISP and converts it into BRO intel files.
+Python script that gets IOC from MISP and converts it into BRO intel files.
 
 Dependencies:
 Linux with Python installed.
